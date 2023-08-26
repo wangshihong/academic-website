@@ -9,12 +9,14 @@ sections:
     id: about
     content:
       title: Biography
+      weight: 1
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   
   - block: experience
     content:
       title: Experience
+      weight: 5
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -51,6 +53,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
+      weight: 2
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -67,6 +70,7 @@ sections:
     id: projects
     content:
       title: Projects
+      weight: 3
       filters:
         folders:
           - project
@@ -97,6 +101,7 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
+      weight: 4
       filters:
         folders:
           - event
@@ -108,6 +113,7 @@ sections:
     id: contact
     content:
       title: Contact
+      weight: 6
       subtitle:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
