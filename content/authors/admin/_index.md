@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student of Biomedical Engineering
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
