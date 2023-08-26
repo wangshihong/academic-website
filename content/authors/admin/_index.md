@@ -19,7 +19,7 @@ role: Ph.D. Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Tsinghua University
-    url: https://www.stanford.edu/
+    url: https://www.tsinghua.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -36,10 +36,10 @@ education:
     - course: Ph.D. in Biomedical Engineering
       institution: Tsinghua University
       year: 2027
-    - course: M.S. in Electronic Information
+    - course: M.E. in Electronic Information
       institution: Beihang University
       year: 2023
-    - course: B.S. in Mechanical Engineering
+    - course: B.E. in Mechanical Engineering
       institution: Beihang University
       year: 2020
 
