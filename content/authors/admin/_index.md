@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Shihong Wang 王铈弘
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Shihong
+last_name: Wang
 
 # Status emoji
 status:
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student of Biomedical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Tsinghua University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
