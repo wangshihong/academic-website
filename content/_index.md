@@ -7,14 +7,13 @@ type: landing
 sections:
   - block: about.biography
     id: about
-    weight: 1
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   
   - block: collection
-    weight: 2
+    id: publications
     content:
       title: Publications
       text: |-
@@ -30,7 +29,6 @@ sections:
       view: citation
 
   - block: portfolio
-    weight: 3
     id: projects
     content:
       title: Projects
@@ -59,7 +57,6 @@ sections:
       flip_alt_rows: false
  
   - block: collection
-    weight: 4
     id: talks
     content:
       title: Talks
@@ -71,7 +68,6 @@ sections:
       view: compact
  
   - block: contact
-    weight: 6
     id: contact
     content:
       title: Contact
