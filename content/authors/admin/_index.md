@@ -33,13 +33,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Biomedical Engineering
+    - course: Ph.D. in Biomedical Engineering
       institution: Tsinghua University
       year: 2027
-    - course: MEng in Electronics
+    - course: M.S. in Electronics
       institution: Beihang University
       year: 2023
-    - course: BEng in Mechanical Engineering
+    - course: B.S. in Mechanical Engineering
       institution: Beihang University
       year: 2020
 
