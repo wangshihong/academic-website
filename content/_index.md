@@ -78,13 +78,8 @@ sections:
       subtitle:
       email: wsh23@mails.tsinghua.edu.cn
       phone: (+86) 156 5258 7705
-      address:
-        street: Medical Science Building, C204
-        city: Beijing
-        region: Beijing
-        postcode: '100084'
-        country: China
-        country_code: CN
+      address: C204, Medical Science Building, Tsinghua University, Beijing 100084, China
+        
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
