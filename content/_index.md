@@ -78,8 +78,13 @@ sections:
       subtitle:
       email: wsh23@mails.tsinghua.edu.cn
       phone: (+86) 156 5258 7705
-      address: C204, Medical Science Building, Tsinghua University, Beijing 100084, China
-        
+      address:
+        street: 450 Serra Mall
+        city: Stanford
+        region: CA
+        postcode: '94305'
+        country: United States
+        country_code: US  
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
