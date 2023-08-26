@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shihong Wang 王铈弘
+title: Shihong Wang
 
 # Full name (for SEO)
 first_name: Shihong
