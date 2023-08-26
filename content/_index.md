@@ -76,15 +76,12 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
       email: wsh23@mails.tsinghua.edu.cn
       phone: (+86) 156 5258 7705
       address:
-        street: 450 Serra Mall
+        street: Medical Science Building, C204
         city: Beijing
-        region: Haidian
+        region: Beijing
         postcode: '100084'
         country: China
         country_code: CN
