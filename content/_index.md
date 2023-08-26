@@ -82,7 +82,7 @@ sections:
         street: C204
         city: Medical Science Building
         region: Beijing
-        # postcode: '100084'
+        postcode: '100084'
         country: China
         # country_code: US  
       # Automatically link email and phone or display as text?
