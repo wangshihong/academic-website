@@ -36,7 +36,7 @@ education:
     - course: Ph.D. in Biomedical Engineering
       institution: Tsinghua University
       year: 2027
-    - course: M.S. in Electronics
+    - course: M.S. in Electronic Information
       institution: Beihang University
       year: 2023
     - course: B.S. in Mechanical Engineering
