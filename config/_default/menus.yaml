@@ -5,24 +5,19 @@
 
 main:
   - name: Home
-    # url: '#about'
-    pageref: '/about'
+    url: '#about'
     weight: 10
   - name: Publications
-    # url: '#publications'
-    pageref: '/publications'
+    url: '#publications'
     weight: 20
   - name: Projects
-    # url: '#projects'
-    pageref: '/projects'
+    url: '#projects'
     weight: 30
   - name: Talks
-    # url: '#talks'
-    pageref: '/talks'
+    url: '#talks'
     weight: 40
   - name: Contact
-    # url: '#contact'
-    pageref: '/contact'
+    url: '#contact'
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
