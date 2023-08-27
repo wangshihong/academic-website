@@ -77,7 +77,7 @@ sections:
       address:
         street: Medical Science Building
         city: Tsinghua University
-        region: Beijing 100084
+        region: Beijing 100084,
         postcode: China
         country: China
         country_code: US  
