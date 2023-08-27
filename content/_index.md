@@ -76,7 +76,7 @@ sections:
       phone: (+86) 156 5258 7705
       address:
         street: Medical Science Building
-        city: Beijing 100084
+        city: Tsinghua University
         region: Beijing 100084
         postcode: China
         country: China
