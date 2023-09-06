@@ -14,7 +14,7 @@ author_notes:
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-06-12T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -39,13 +39,13 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://link.springer.com/article/10.1007/s11431-022-2230-8
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
