@@ -10,7 +10,7 @@ authors:
 - Taogang Hou
 author_notes:
 # - "Equal contribution"
-# date: "2023-06-12T00:00:00Z"
+date: "2023-06-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -39,7 +39,6 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://link.springer.com/article/10.1007/s11431-022-2230-8
-# - name: "Dataset"
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: 'https://github.com/WangShihong'
 # url_poster: ''
