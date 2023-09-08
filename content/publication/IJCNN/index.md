@@ -38,7 +38,7 @@ featured: false
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9892976
 url_code: 'https://github.com/WangShihong'
 url_dataset: 'https://github.com/WangShihong'
-# url_poster: ''
+url_poster: 'https://github.com/WangShihong'
 # url_project: ''
 # url_slides: ''
 # url_source: ''
