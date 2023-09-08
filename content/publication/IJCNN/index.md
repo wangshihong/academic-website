@@ -2,15 +2,12 @@
 title: "Highway Icing Time Prediction with Deep Learning Approaches based on Data from Road Sensors"
 authors:
 - admin
-- Tianle Wang
-- Xuan Pei
-- Hao Wang
-- Qiang Zhu
-- Tao Tang
-- Taogang Hou
+- Xueying Zhang
+- Yichen Meng
+- Wei W. Xing
 author_notes:
 # - "Equal contribution"
-date: "2023-06-12T00:00:00Z"
+date: "2022-09-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,13 +17,13 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Science China Technological Sciences*
+publication: In *2022 International Joint Conference on Neural Networks (IJCNN)*
 # publication_short: In *SCTS*
 
-abstract: In harsh climates, highway icing poses a hazard to traffic safety and increases road maintenance costs. It is of great significance to predict when the highway icing may occur and take a preventive plan. However, there are few studies on highway icing time prediction due to the scarcity and complexity of data. In this study, variables of icing temperature, friction, ice percentage, road surface temperature, water film height, saline concentration, and road condition were collected by road sensors distributed on a highway in China. A large-scale time series highway surface information dataset called HighwayIce is formed. Furthermore, a deep learning approach called IceAlarm, composed of long short-term memory neural network (LSTM), multilayer perceptron (MLP), and residual connection, has been developed to predict when the highway will ice. The LSTM is used to process dynamic variables, the MLP is used to process static variables, and the fully-connected layers with residual connections are used to make a deep fusion. The experimental results show that the average mean absolute error before icing using the IceAlarm model is about 6 min and outperforms all baseline models. The HighwayIce dataset and IceAlarm model can help improve the prediction accuracy and efficiency of forecasting real-world road icing time, therefore reducing the impact of icy road conditions on traffic.
+abstract: Physical simulations based on partial differential equations typically generate spatial fields results, which are utilized to calculate specific properties of a system for engineering design and optimization. Due to the intensive computational burden of the simulations, a surrogate model mapping the low-dimensional inputs to the spatial fields are commonly built based on a relatively small dataset. To resolve the challenge of predicting the whole spatial field, the popular linear model of coregional-ization (LMC) can disentangle complicated correlations within the high-dimensional spatial field outputs and deliver accurate predictions. However, LMC fails if the spatial field cannot be well approximated by a linear combination of base functions with latent processes. In this paper, we present the Extended Linear Model of Coregionalization (E-LMC) by introducing an invertible neural network to linearize the highly complex and nonlinear spatial fields so that the LMC can easily generalize to nonlinear problems while preserving the traceability and scalability. Several real-world applications demonstrate that E-LMC can exploit spatial correlations effectively, showing a maximum improvement of about 40% over the original LMC and outperforming the other state-of-the-art spatial field models.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,8 +35,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/article/10.1007/s11431-022-2230-8
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9892976
+url_code: 'https://github.com/WangShihong'
 url_dataset: 'https://github.com/WangShihong'
 # url_poster: ''
 # url_project: ''
