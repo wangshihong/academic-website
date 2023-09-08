@@ -22,11 +22,11 @@ organizations:
     url: https://www.tsinghua.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AI4Healthcare, flexible electronics, and intelligent robots.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - AI for Healthcare System
   - Flexible Electronics
   - Robotics
 
@@ -71,5 +71,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a Ph.D. student at Tsinghua University supervised by [Prof. Guoliang Huang](https://www.med.tsinghua.edu.cn/info/1358/1473.htm) and [Prof. Jing Cheng](https://www.med.tsinghua.edu.cn/info/1358/1477.htm). Prior to my Ph.D. program, I worked on AI for science supervised by [Prof. Xueying Zhang](https://shi.buaa.edu.cn/zhangxueying1/en/index.htm) and intelligent robots supervised by [Prof. Tianmiao Wang](https://www.buaa.edu.cn/info/1545/1757.htm) at Beihang University.
+I am a Ph.D. student at Tsinghua University supervised by [Prof. Guoliang Huang](https://www.med.tsinghua.edu.cn/info/1358/1473.htm) and [Prof. Jing Cheng](https://www.med.tsinghua.edu.cn/info/1358/1477.htm). Prior to my Ph.D. program, I worked on AI for Science supervised by [Prof. Xueying Zhang](https://shi.buaa.edu.cn/zhangxueying1/en/index.htm) and intelligent robots supervised by [Prof. Tianmiao Wang](https://www.buaa.edu.cn/info/1545/1757.htm) at Beihang University.
 {style="text-align: justify;"}
