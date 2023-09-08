@@ -1,5 +1,5 @@
 ---
-title: "Highway Icing Time Prediction with Deep Learning Approaches based on Data from Road Sensors"
+title: "Spintronics Intelligent Devices"
 authors:
 - Wenlong Cai
 - Yan Huang
