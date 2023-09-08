@@ -31,8 +31,9 @@ abstract: In harsh climates, highway icing poses a hazard to traffic safety and 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
-featured: true
+tags:
+- Source Themes
+featured: false
 
 # links:
 # - name: ""
