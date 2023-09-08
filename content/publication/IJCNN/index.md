@@ -1,5 +1,5 @@
 ---
-title: "Highway Icing Time Prediction with Deep Learning Approaches based on Data from Road Sensors"
+title: "E-LMC: Extended Linear Model of Coregionalization for Spatial Field Prediction"
 authors:
 - admin
 - Xueying Zhang
