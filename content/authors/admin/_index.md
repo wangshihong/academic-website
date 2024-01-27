@@ -22,13 +22,13 @@ organizations:
     url: https://www.tsinghua.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI4Healthcare, flexible electronics, and intelligent robots.
+bio: My research interests include AI4Healthcare, flexible electronics, and wearable devices.
 
 # Interests to show in About widget
 interests:
   - AI for Healthcare System
   - Flexible Electronics
-  - Robotics
+  - Wearable Devices
 
 # Education to show in About widget
 education:
@@ -36,7 +36,7 @@ education:
     - course: Ph.D. in Biomedical Engineering
       institution: Tsinghua University
       year: in progress
-    - course: M.E. in Electronic Information
+    - course: M.E. in Computer Science
       institution: Beihang University
       year: 2023
     - course: B.E. in Mechanical Engineering
