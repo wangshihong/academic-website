@@ -71,5 +71,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a Ph.D. student at Tsinghua University supervised by [Prof. Guoliang Huang](https://www.med.tsinghua.edu.cn/info/1358/1473.htm) and [Prof. Jing Cheng](https://www.med.tsinghua.edu.cn/info/1358/1477.htm). Prior to my Ph.D. program, I worked on AI for Science supervised by [Prof. Xueying Zhang](https://shi.buaa.edu.cn/zhangxueying/zh_CN/index.htm) and Intelligent Robots supervised by [Prof. Tianmiao Wang](http://www.me.buaa.edu.cn/info/1072/1908.htm) at Beihang University.
+I am a Ph.D. student at Tsinghua University supervised by [Prof. Jing Cheng](https://www.med.tsinghua.edu.cn/info/1358/1477.htm) and [Prof. Guoliang Huang](https://www.med.tsinghua.edu.cn/info/1358/1473.htm). Prior to my Ph.D. program, I worked on AI for Science supervised by [Prof. Weisheng Zhao](https://shi.buaa.edu.cn/zhangxueying/zh_CN/index.htm) and Intelligent Robots supervised by [Prof. Tianmiao Wang](http://www.me.buaa.edu.cn/info/1072/1908.htm) at Beihang University.
 {style="text-align: justify;"}
