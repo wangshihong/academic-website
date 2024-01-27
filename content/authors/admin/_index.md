@@ -22,13 +22,13 @@ organizations:
     url: https://www.tsinghua.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI4Healthcare, flexible electronics, and wearable devices.
+# bio: My research interests include AI4Healthcare, flexible electronics, and wearable devices.
 
 # Interests to show in About widget
 interests:
-  - AI for Healthcare System
-  - Flexible Electronics
-  - Wearable Devices
+  - Wearable Medical Devices
+  - AI for Healthcare
+  - Flexible Sensors
 
 # Education to show in About widget
 education:
