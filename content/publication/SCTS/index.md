@@ -23,7 +23,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Science China Technological Sciences*
+publication: *Science China Technological Sciences*
 # publication_short: In *SCTS*
 
 abstract: In harsh climates, highway icing poses a hazard to traffic safety and increases road maintenance costs. It is of great significance to predict when the highway icing may occur and take a preventive plan. However, there are few studies on highway icing time prediction due to the scarcity and complexity of data. In this study, variables of icing temperature, friction, ice percentage, road surface temperature, water film height, saline concentration, and road condition were collected by road sensors distributed on a highway in China. A large-scale time series highway surface information dataset called HighwayIce is formed. Furthermore, a deep learning approach called IceAlarm, composed of long short-term memory neural network (LSTM), multilayer perceptron (MLP), and residual connection, has been developed to predict when the highway will ice. The LSTM is used to process dynamic variables, the MLP is used to process static variables, and the fully-connected layers with residual connections are used to make a deep fusion. The experimental results show that the average mean absolute error before icing using the IceAlarm model is about 6 min and outperforms all baseline models. The HighwayIce dataset and IceAlarm model can help improve the prediction accuracy and efficiency of forecasting real-world road icing time, therefore reducing the impact of icy road conditions on traffic.
@@ -40,7 +40,7 @@ featured: false
 #   url: ""
 url_pdf: https://link.springer.com/article/10.1007/s11431-022-2230-8
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/WangShihong'
+# url_dataset: 'https://github.com/WangShihong'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
