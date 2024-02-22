@@ -33,7 +33,7 @@ sections:
     content:
       title: Experience
       # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      # Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
@@ -55,11 +55,11 @@ sections:
               * Deploying
         - title: Intern
           company: ByteDance
-          company_url: ''
+          company_url: 'https://www.bytedance.com/en/'
           company_logo: org-x
           location: Beijing
           date_start: '2022-03-01'
-          date_end: '2022-04-30'
+          date_end: '2022-05-30'
           description: Controlled autonomous mobile robot and researched neural radiance field (NeRF).
     design:
       columns: '2'
