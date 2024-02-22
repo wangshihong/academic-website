@@ -50,7 +50,7 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:  
-              * Analysing
+              * Designing
               * Modelling
               * Deploying
         - title: Intern
