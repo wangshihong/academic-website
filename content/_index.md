@@ -44,7 +44,7 @@ sections:
         - title: Cofounder/CTO
           company: PulseMo
           company_url: ''
-          company_logo: org-gc
+          company_logo: PulseMo-logo
           location: Beijing
           date_start: '2023-11-07'
           date_end: ''
@@ -56,7 +56,7 @@ sections:
         - title: Intern
           company: ByteDance
           company_url: 'https://www.bytedance.com/en/'
-          company_logo: org-x
+          company_logo: bytedance-logo
           location: Beijing
           date_start: '2022-03-01'
           date_end: '2022-05-30'
